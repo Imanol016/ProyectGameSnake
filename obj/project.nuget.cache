@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NeTThxwzO9MvMV0K4QwNm7T65cylTL17ZRkfaqnOQ7ShdCPA2Qfk86XCdPFDx9owHxmNMkjnVcRXpA+kQY6jjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sindy Barrera\\source\\repos\\JuegoSnake\\JuegoSnake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sindy Barrera\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
